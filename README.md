@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pixel-forge-preview.png" width="800" alt="PIXEL FORGE Preview">
+  <img src="screenshots/pixel-forge-preview.png" width="800" alt="PIXEL FORGE Preview">
 </p>
 
 <h1 align="center">PIXEL FORGE</h1>
